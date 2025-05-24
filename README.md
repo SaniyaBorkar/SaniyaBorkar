@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Saniya Borkar<br><br>💻 Full Stack Developer | ⚙️ MERN Stack | 🤖 ML Enthusiast | 🚀 Open Source Contributor<br><br>🎓 B.Tech CSE student at YCCE <br>💼 Frontend Developer Intern @ CultureVo<br>💬 Ask me about: Web development, GitHub, MongoDB, React, Node.js
+👋 Hi, I'm Saniya Borkar<br><br>💻 Full Stack Developer | ⚙️ MERN Stack <br><br>🎓 B.Tech CSE student at YCCE <br>💼 Frontend Developer Intern @ CultureVo<br>💬 Ask me about: Web development, GitHub, MongoDB, React, Node.js
 
 
 ## 🌐 Socials:
